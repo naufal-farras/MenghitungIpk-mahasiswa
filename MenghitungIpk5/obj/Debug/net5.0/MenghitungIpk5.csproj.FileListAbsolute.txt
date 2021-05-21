@@ -1,0 +1,16 @@
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\bin\Debug\net5.0\MenghitungIpk5.exe
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\bin\Debug\net5.0\MenghitungIpk5.deps.json
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\bin\Debug\net5.0\MenghitungIpk5.runtimeconfig.json
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\bin\Debug\net5.0\MenghitungIpk5.runtimeconfig.dev.json
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\bin\Debug\net5.0\MenghitungIpk5.dll
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\bin\Debug\net5.0\ref\MenghitungIpk5.dll
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\bin\Debug\net5.0\MenghitungIpk5.pdb
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\obj\Debug\net5.0\MenghitungIpk5.csprojAssemblyReference.cache
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\obj\Debug\net5.0\MenghitungIpk5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\obj\Debug\net5.0\MenghitungIpk5.AssemblyInfoInputs.cache
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\obj\Debug\net5.0\MenghitungIpk5.AssemblyInfo.cs
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\obj\Debug\net5.0\MenghitungIpk5.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\obj\Debug\net5.0\MenghitungIpk5.dll
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\obj\Debug\net5.0\ref\MenghitungIpk5.dll
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\obj\Debug\net5.0\MenghitungIpk5.pdb
+C:\Users\WIN 10 TRIAL\source\repos\MenghitungIpk5\MenghitungIpk5\obj\Debug\net5.0\MenghitungIpk5.genruntimeconfig.cache
